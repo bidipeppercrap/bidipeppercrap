@@ -1,4 +1,4 @@
-# bidipeppercrap
+<img src="https://bidipeppercrap.s3-ap-southeast-1.amazonaws.com/assets/logo_long.svg" alt="logo" height="50">
 
 ## Technology Stack
 <img src="https://raw.githubusercontent.com/envoyproxy/artwork/master/PNG/Envoy_Logo_Final_PANTONE.png" alt="envoy proxy" height="50"> <img src="https://nginx.org/nginx.png" alt="nginx" height="50"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" alt="docker" height="50">

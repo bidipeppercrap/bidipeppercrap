@@ -1,6 +1,13 @@
 <img src="https://bidipeppercrap.s3-ap-southeast-1.amazonaws.com/assets/logo_long.svg" alt="logo" height="50">
 
 ## Technology Stack
+<!-- Template
+      <td align="center" valign="middle">
+        <a href="" target="_blank">
+          <img width="148px" src="" alt="">
+        </a>
+      </td>
+-->
 <table>
   <tbody>
     <tr>
@@ -62,15 +69,34 @@
         </a>
       </td>
       <td align="center" valign="middle">
+        <a href="https://deno.land/" target="_blank">
+          <img width="148px" src="https://deno.land/logo.svg" alt="deno">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">
         <a href="https://svelte.dev/" target="_blank">
           <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte">
         </a>
       </td>
+      <td align="center" valign="middle">
+        <a href="https://vuejs.org/" target="_blank">
+          <img width="148px" src="https://vuejs.org/images/logo.png" alt="vue">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        pending
+      </td>
+      <td align="center" valign="middle">
+        pending
+      </td>
+      <td align="center" valign="middle">
+        pending
+      </td>
+      <td align="center" valign="middle">
+        pending
+      </td>
     </tr>
   </tbody>
 </table>
-  
-    
-
-
-  <img src="https://vuejs.org/images/logo.png" alt="vue" height="50">

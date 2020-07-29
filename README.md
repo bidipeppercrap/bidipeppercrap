@@ -1,7 +1,6 @@
 # bidipeppercrap
-###### Stupendously Stupid
 
-## Technology Used
+## Technology Stack
 <img src="https://raw.githubusercontent.com/envoyproxy/artwork/master/PNG/Envoy_Logo_Final_PANTONE.png" alt="envoy proxy" height="50"> <img src="https://nginx.org/nginx.png" alt="nginx" height="50"> <img src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" alt="docker" height="50">
 <img src="https://grpc.io/img/grpc_square_reverse_4x.png" alt="grpc" height="50"> <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" alt="c#" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" alt=".net" height="50"> <img src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt="blazor.net" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Mariadb-seal-browntext.svg" alt="mariadb" height="50">

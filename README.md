@@ -86,13 +86,13 @@
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://getbootstrap.com/" target="_blank">
-          <img width="148px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap">
+        <a href="https://reactjs.org/" target="_blank">
+          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react">
         </a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://reactjs.org/" target="_blank">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react">
+        <a href="https://getbootstrap.com/" target="_blank">
+          <img width="148px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap">
         </a>
       </td>
       <td align="center" valign="middle">

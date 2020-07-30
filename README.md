@@ -41,7 +41,7 @@
           <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Mariadb-seal-browntext.svg" alt="mariadb">
         </a>
       </td>
-    </tr>
+    </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
         <a href="https://dotnet.microsoft.com/learn/csharp" target="_blank">
@@ -73,7 +73,7 @@
           <img width="148px" src="https://deno.land/logo.svg" alt="deno">
         </a>
       </td>
-    </tr>
+    </tr><tr></tr>
     <tr>
       <td align="center" valign="middle">
         <a href="https://svelte.dev/" target="_blank">
@@ -105,6 +105,6 @@
           <img width="148px" src="https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg" alt="let's encrypt">
         </a>
       </td>
-    </tr>
+    </tr><tr></tr>
   </tbody>
 </table>

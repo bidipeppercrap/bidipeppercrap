@@ -75,32 +75,32 @@
     <tr>
       <td align="center" valign="middle">
         <a href="https://svelte.dev/" target="_blank">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte">
+          <img width="74px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://vuejs.org/" target="_blank">
-          <img width="148px" src="https://vuejs.org/images/logo.png" alt="vue">
+          <img width="74px" src="https://vuejs.org/images/logo.png" alt="vue">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://reactjs.org/" target="_blank">
-          <img width="148px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react">
+          <img width="74px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://getbootstrap.com/" target="_blank">
-          <img width="148px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap">
+          <img width="74px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://flutter.dev/" target="_blank">
-          <img width="148px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-1080px.png" alt="flutter">
+          <img width="74px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-1080px.png" alt="flutter">
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://letsencrypt.org/" target="_blank">
-          <img width="148px" src="https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg" alt="let's encrypt">
+          <img width="74px" src="https://letsencrypt.org/images/letsencrypt-logo-horizontal.svg" alt="let's encrypt">
         </a>
       </td>
     </tr><tr></tr>

@@ -1,4 +1,6 @@
-<img src="https://bidipeppercrap.s3-ap-southeast-1.amazonaws.com/assets/logo_long.svg" alt="logo" height="37px">
+<a href="https://bidipeppercrap.com/" target="_blank">
+      <img src="https://bidipeppercrap.s3-ap-southeast-1.amazonaws.com/assets/logo_long.svg" alt="logo" height="37px">
+</a>
 
 ## Technology Stack
 <!-- Template

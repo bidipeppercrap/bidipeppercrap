@@ -23,6 +23,7 @@
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL">][graphql]
 [<img align="left" width="26px" src="https://mariadb.org/wp-content/uploads/2019/02/cropped-mariadb_org_rgb_r_512-1-270x270.png" alt="MariaDB">][mariadb]
 [<img align="left" width="26px" src="https://letsencrypt.org/images/le-logo-standard.png" alt="Let's Encrypt">][letsencrypt]
+[<img align="left" width="26px" src="https://cdn.auth0.com/website/press/resources/auth0-glyph.svg" alt="Auth0">][auth0]
 
 [bidipeppercrap]: https://bidipeppercrap.com/
 [envoyproxy]: https://www.envoyproxy.io/
@@ -46,3 +47,4 @@
 [flutter]: https://flutter.dev/
 [letsencrypt]: https://letsencrypt.org/
 [graphql]: https://graphql.org/
+[auth0]: https://auth0.com/

@@ -24,6 +24,7 @@
 [<img align="left" width="26px" src="https://mariadb.org/wp-content/uploads/2019/02/cropped-mariadb_org_rgb_r_512-1-270x270.png" alt="MariaDB">][mariadb]
 [<img align="left" width="26px" src="https://letsencrypt.org/images/le-logo-standard.png" alt="Let's Encrypt">][letsencrypt]
 [<img align="left" width="26px" src="https://cdn.auth0.com/website/press/resources/auth0-glyph.svg" alt="Auth0">][auth0]
+[<img align="left" width="26px" src="https://www.datocms-assets.com/2885/1588890815-vaultprimarylogofullcolorrgb.svg" alt="Vault">][vault]
 
 [bidipeppercrap]: https://bidipeppercrap.com/
 [envoyproxy]: https://www.envoyproxy.io/
@@ -48,3 +49,4 @@
 [letsencrypt]: https://letsencrypt.org/
 [graphql]: https://graphql.org/
 [auth0]: https://auth0.com/
+[vault]: https://www.vaultproject.io/

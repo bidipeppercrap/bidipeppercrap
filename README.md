@@ -25,6 +25,7 @@
 [<img align="left" width="26px" src="https://letsencrypt.org/images/le-logo-standard.png" alt="Let's Encrypt">][letsencrypt]
 [<img align="left" width="26px" src="https://cdn.auth0.com/website/press/resources/auth0-glyph.svg" alt="Auth0">][auth0]
 [<img align="left" width="26px" src="https://www.datocms-assets.com/2885/1597163356-vault-favicon.png" alt="Vault">][vault]
+[<img align="left" width="26px" src="https://wiki.alpinelinux.org/images/alogo.png" alt="Alpine Linux">][alpine]
 
 [bidipeppercrap]: https://bidipeppercrap.com/
 [envoyproxy]: https://www.envoyproxy.io/
@@ -50,3 +51,4 @@
 [graphql]: https://graphql.org/
 [auth0]: https://auth0.com/
 [vault]: https://www.vaultproject.io/
+[alpine]: https://alpinelinux.org/

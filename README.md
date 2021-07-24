@@ -12,6 +12,7 @@
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-1080px.png" alt="Flutter">][flutter]
 [<img align="left" width="26px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap">][bootstrap]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">][react]
+[<img align="left" width="26px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js">][nextjs]
 [<img align="left" width="26px" src="https://vuejs.org/images/logo.png" alt="Vue">][vue]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png" alt="svelte">][svelte]
 [<img align="left" width="26px" src="https://deno.land/logo.svg" alt="deno">][deno]
@@ -45,6 +46,7 @@
 [svelte]: https://svelte.dev/
 [vue]: https://vuejs.org/
 [react]: https://reactjs.org/
+[nextjs]: https://nextjs.org/
 [bootstrap]: https://getbootstrap.com/
 [flutter]: https://flutter.dev/
 [letsencrypt]: https://letsencrypt.org/

@@ -4,7 +4,7 @@
 
 [<img align="left" height="26px" src="https://landscape.cncf.io/logos/envoy.svg" alt="envoy proxy">][envoyproxy]
 [<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx">][nginx]
-[<img align="left" height="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/vertical-logo-monochromatic.png?itok=erja9lKc" alt="docker">][docker]
+[<img align="left" height="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker">][docker]
 [<img align="left" height="26px" src="https://grpc.io/img/grpc_square_reverse_4x.png" alt="grpc">][grpc]
 [<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">][git]
 [<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub">][github]

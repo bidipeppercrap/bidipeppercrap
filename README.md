@@ -4,7 +4,7 @@
 
 [<img align="left" height="26px" src="https://deno.land/logo.svg" alt="deno">][deno]
 [<img align="left" height="26px" src="https://crl2020.imgix.net/img/stacked-logo-hr.png?auto=format,compress" alt="cockroachdb">][cockroachdb]
-[<img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/600px-Cloudflare_Logo.png?20211125225208" alt="cloudflare r2">][r2]
+[<img height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/600px-Cloudflare_Logo.png?20211125225208" alt="cloudflare r2">][r2]
 
 ## Technology Stack
 

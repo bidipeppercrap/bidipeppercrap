@@ -1,5 +1,11 @@
 [<img src="https://bidipeppercrap.s3-ap-southeast-1.amazonaws.com/assets/logo_long.svg" alt="logo" height="26px">][bidipeppercrap]
 
+## Current Stack
+
+[<img align="left" height="26px" src="https://deno.land/logo.svg" alt="deno">][deno]
+[<img align="left" height="26px" src="https://crl2020.imgix.net/img/stacked-logo-hr.png?auto=format,compress" alt="cockroachdb">][cockroachdb]
+[<img align="left" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/600px-Cloudflare_Logo.png?20211125225208" alt="cloudflare r2">][r2]
+
 ## Technology Stack
 
 [<img align="left" height="26px" src="https://landscape.cncf.io/logos/envoy.svg" alt="envoy proxy">][envoyproxy]
@@ -54,3 +60,5 @@
 [auth0]: https://auth0.com/
 [vault]: https://www.vaultproject.io/
 [alpine]: https://alpinelinux.org/
+[cockroachdb]: https://www.cockroachlabs.com/
+[r2]: https://www.cloudflare.com/products/r2/

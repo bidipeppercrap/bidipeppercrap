@@ -8,15 +8,11 @@
 
 ## Technology Stack
 
-[<img align="left" height="26px" src="https://landscape.cncf.io/logos/envoy.svg" alt="envoy proxy">][envoyproxy]
 [<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx">][nginx]
 [<img align="left" height="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker">][docker]
 [<img align="left" height="26px" src="https://grpc.io/img/grpc_square_reverse_4x.png" alt="grpc">][grpc]
-[<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git">][git]
-[<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub">][github]
 [<img align="left" height="26px" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust">][rust]
 [<img align="left" height="26px" src="https://raw.githubusercontent.com/flutter/website/master/src/_assets/image/flutter-logomark-1080px.png" alt="Flutter">][flutter]
-[<img align="left" height="26px" src="https://camo.githubusercontent.com/0e0adf58c74c6e74bb64ece5d0ef4620f4f46915/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="Bootstrap">][bootstrap]
 [<img align="left" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React">][react]
 [<img align="left" height="26px" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="Next.js">][nextjs]
 [<img align="left" height="26px" src="https://vuejs.org/images/logo.png" alt="Vue">][vue]
@@ -35,12 +31,9 @@
 [<img align="left" height="26px" src="https://wiki.alpinelinux.org/images/alogo.png" alt="Alpine Linux">][alpine]
 
 [bidipeppercrap]: https://bidipeppercrap.com/
-[envoyproxy]: https://www.envoyproxy.io/
 [nginx]: https://nginx.org/
 [docker]: https://www.docker.com/
 [grpc]: https://grpc.io/
-[git]: https://git-scm.com/
-[github]: https://github.com/
 [rust]: https://www.rust-lang.org/
 [mariadb]: https://mariadb.org/
 [csharp]: https://dotnet.microsoft.com/learn/csharp
@@ -53,7 +46,6 @@
 [vue]: https://vuejs.org/
 [react]: https://reactjs.org/
 [nextjs]: https://nextjs.org/
-[bootstrap]: https://getbootstrap.com/
 [flutter]: https://flutter.dev/
 [letsencrypt]: https://letsencrypt.org/
 [graphql]: https://graphql.org/
